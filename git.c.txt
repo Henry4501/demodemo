@@ -1,3 +1,2 @@
-int main(){
-	printf("Hello");
-}
+printf("Hello");
+printf("Pull");
